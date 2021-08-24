@@ -16,6 +16,6 @@ You will also see any lint errors in the console.
 
 # Description
 
-- I created a small react project with CRUD operations, for practicing the basics and learning purpose.
+- I created a small React project with CRUD operations, for practicing the coding basics and learning purpose.
 - On the page all notes are mapped and displayed.
-- You can create small notes with a title and content and you can delete them.
+- You can create small notes with a title and content. Also you can delete them.
